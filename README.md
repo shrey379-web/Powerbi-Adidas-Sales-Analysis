@@ -2,6 +2,12 @@
 
 An interactive sales analytics dashboard built using Microsoft Power BI to analyze Adidas sales performance, profitability, product categories, regional distribution, and retailer contributions.
 
+## 📊 Dashboard Preview
+
+![Adidas Sales Analysis Dashboard](Adidas%20Analysis.png)
+
+*Dashboard preview featuring sales and profit KPIs, monthly sales trends, state-wise distribution, product performance, regional sales, and retailer comparisons.*
+
 
 ## 📌 Project Overview
 
